@@ -1,4 +1,4 @@
-# GlobalMart Sales Analysis
+# Data Warehouse & Business Intelligence System
 ## Data Centralisation (ETL), Power BI Report, Visualisations & SQL queries
 
 ### Stack
